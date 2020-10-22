@@ -1,0 +1,12 @@
+{
+  "name": "func-api-sensors",
+  "version": "1.0",
+  "description": "cta team azure function to simulate sensors sending message to queue",
+  "scripts": {
+    "test": "echo \"No tests yet...\""
+  },
+  "author": "",
+  "dependencies": {
+    "azure": "*"
+  }
+}
